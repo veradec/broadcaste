@@ -27,7 +27,7 @@ The project is configured for use with Android Studio and the Gradle build syste
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/broadcaste.git
+    git clone https://github.com/veradec/broadcaste.git
     ```
 2.  Import the project into Android Studio.
 3.  Execute the 'run' configuration to build and deploy the application to a connected Android device or emulator.
